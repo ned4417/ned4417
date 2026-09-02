@@ -1,6 +1,6 @@
 # Hi, I'm Eddie
 
-Full Stack Software Engineer with 9+ years of experience across infrastructure and application development — the last 4+ years building healthcare technology at CHAS Health, most recently focused on AI-integrated clinical systems.
+Full Stack Software Engineer with 12+ years of experience across infrastructure and application development — the last 5+ years building healthcare technology at CHAS Health, most recently focused on AI-integrated clinical systems.
 
 ## What I work on
 
